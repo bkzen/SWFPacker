@@ -1,4 +1,4 @@
-﻿# SWFPacker
+﻿## SWFPacker
 
 作成した SWF をまとめて Embed すると同一 ApplicationDomain 内にまとめてくれるやつ。
 
